@@ -1,0 +1,16 @@
+@media screen and (max-width: 760px) {
+    body {
+        background-color: #fff;
+    }
+    .wrapper {
+        margin-top: 0;
+    }
+}
+@media screen and (max-width: 360px) {
+    .grid__wrapper {
+        flex-direction: column;
+    }
+    .grid__wrapper-left, .grid__wrapper-right{
+        width: 100%;
+    }
+}

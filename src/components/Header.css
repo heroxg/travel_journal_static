@@ -1,0 +1,8 @@
+header {
+    background: #f55a5a;
+    width: 100%;
+    display: flex;
+}
+header img {
+    margin: 0 auto;
+}

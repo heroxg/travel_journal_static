@@ -3,6 +3,7 @@ const Data = [
         "id": 1,
         "country": "Japan",
         "map_url": "https://source.unsplash.com/WLxQvbMyfas",
+        "image": "https://source.unsplash.com/WLxQvbMyfas",
         "title": "Mount Fuji",
         "start_date": "12 Jan, 2021",
         "end_date": "24 Jan, 2021",
@@ -12,6 +13,7 @@ const Data = [
         "id": "2",
         "country": "Austrialia",
         "map_url":"https://source.unsplash.com/JmuyB_LibRo",
+        "image": "https://source.unsplash.com/JmuyB_LibRo",
         "title": "Sydney Opera House",
         "start_date": "27 May, 2021",
         "end_date": "8 jun, 2021",
@@ -21,9 +23,12 @@ const Data = [
         "id": "3",
         "country": "Norway",
         "map_url": "https://source.unsplash.com/3PeSjpLVtLg",
+        "image": "https://source.unsplash.com/3PeSjpLVtLg",
         "title": "Geirangerfjord",
         "start_date": "01 oct, 2021",
         "end_date": "18 Nov, 2021",
         "description": "The Geiranger Fjord is a fjord in the summore region of more og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     }
 ]
+
+export default Data;
